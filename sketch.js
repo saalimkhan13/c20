@@ -26,9 +26,6 @@ function draw() {
     movingRect.shapeColor = "green";
     fixedRect.shapeColor = "green";
   }
-  
-
-console.log("data dada");
 
   drawSprites();
 }
