@@ -27,9 +27,9 @@ function draw() {
     fixedRect.shapeColor = "green";
   }
   
-  <script>
+
 var str = "GeeksforGeeks";
 console.log(str);
-</script>
+
   drawSprites();
 }
