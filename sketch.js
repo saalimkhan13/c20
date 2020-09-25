@@ -28,8 +28,7 @@ function draw() {
   }
   
 
-var str = "GeeksforGeeks";
-console.log(str);
+console.log("data dada");
 
   drawSprites();
 }
